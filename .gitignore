@@ -32,5 +32,9 @@ DayZServer_x64.exe
 /sakhal
 config/config.vdf
 config/config.vdf
-mpmissions/regular.namalsk/storage_1/players.db
+mpmissions/regular.namalsk/storage_1/
 
+Profile/PermissionsFramework/Players/ATxI-JFgZxkWYr7Quf7frIHZioARfFT0VaBU8wOvx1E.json
+Profile/ExpansionMod/ATM/ATxI-JFgZxkWYr7Quf7frIHZioARfFT0VaBU8wOvx1E=.json
+Profile/MMIO/Clothes.json
+Profile/MMIO/Misc.json
