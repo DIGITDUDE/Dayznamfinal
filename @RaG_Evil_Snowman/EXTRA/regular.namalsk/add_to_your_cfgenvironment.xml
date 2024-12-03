@@ -1,0 +1,7 @@
+		<file path="env/rag_snowman_territories.xml" />
+
+
+
+		<territory type="Herd" name="Snowman" behavior="BlissBearGroupBeh">
+			<file usable="rag_snowman_territories" />
+		</territory>

@@ -1,0 +1,23 @@
+    <event name="InfectedArmy">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>250</max>
+        <lifetime>3</lifetime>                                                                          // Time span in seconds after the spawn in which an type remains on the map IF it is outside the cleanup radius
+        <restock>0</restock>                                                                            // If set to 0, CE tries to respawn the defined classes as childs immediatly, if set to positive, it is in seconds before ONE item of this type is created again.
+        <saferadius>100</saferadius>                                                                    // Necessary distance in meters between the player and the spawn point for an item to spawn.
+        <distanceradius>50</distanceradius>                                                             // Distance in meters to a similar zone of this type. Example: Zombie spawn zones within Military cannot work if they are less than 50m apart.
+        <cleanupradius>100</cleanupradius>                                                              // For example, if zombies are at this specific distance from the player, they will despawn after their lifetime has expired.
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>                                                                              // 1= active 0= not active
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="30" type="ZmbM_PatrolNormal_Autumn"/>           // classnames of each zombie type
+            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_PatrolNormal_Flat"/>             // if we count all min values together its 100 - make sure that nominal and min are below and max above that value
+            <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_PatrolNormal_PautRev"/>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_PatrolNormal_Summer"/>
+            <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_SoldierNormal"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Desert"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Woodland"/>
+        </children>
+    </event>

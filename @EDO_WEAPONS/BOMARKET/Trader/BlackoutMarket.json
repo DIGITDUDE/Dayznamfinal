@@ -1,0 +1,42 @@
+{
+    "m_Version": 7,
+    "TraderName": "BlackoutMarket",
+    "DisplayName": "Blackout Market",
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "Money_Ruble1",
+        "Money_Ruble2",
+        "Money_Ruble5",
+        "Money_Ruble10",
+        "Money_Ruble50",
+        "Money_Ruble100",
+        "Money_Ruble200",
+        "Money_Ruble500",
+        "Money_Ruble1000",
+        "Money_Ruble2000",
+        "Money_Ruble5000"
+    ],
+    "Categories": [
+       "BO_Ammo",
+       "BO_Assault_Rifles",
+       "BO_Backpacks",
+       "BO_Belts",
+       "BO_Buttstocks",
+       "BO_Ghillies",
+       "BO_Helmets",
+       "BO_Hoods",
+       "BO_Magazines",
+       "BO_Masks",
+       "BO_Muzzles",
+       "BO_Optics",
+       "BO_Pistols",
+       "BO_Pouches",
+       "BO_Rifles",
+       "BO_Shotguns",
+       "BO_Sniper_Rifles",
+       "BO_Submachine_Guns",
+       "BO_Vests"
+
+    ],
+    "Items": {}
+}
