@@ -17,6 +17,8 @@ DayZServer_x64.exe
 *.jpg
 *.url
 *.ch
+*.vdf
+*.db
 /battleye
 /DataCache
 /addons
@@ -28,3 +30,7 @@ DayZServer_x64.exe
 /battleye
 /EventManagerLog
 /sakhal
+config/config.vdf
+config/config.vdf
+mpmissions/regular.namalsk/storage_1/players.db
+
