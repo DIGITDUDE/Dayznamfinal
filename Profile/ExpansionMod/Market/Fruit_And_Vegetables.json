@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "greenbellpepper",
-            "MaxPriceThreshold": 1570,
-            "MinPriceThreshold": 940,
+            "MaxPriceThreshold": 9,
+            "MinPriceThreshold": 7,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "zucchini",
-            "MaxPriceThreshold": 1690,
-            "MinPriceThreshold": 1015,
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "potatoseed",
-            "MaxPriceThreshold": 1585,
-            "MinPriceThreshold": 950,
+            "MaxPriceThreshold": 9,
+            "MinPriceThreshold": 7,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -85,8 +85,8 @@
         },
         {
             "ClassName": "tomato",
-            "MaxPriceThreshold": 1570,
-            "MinPriceThreshold": 940,
+            "MaxPriceThreshold": 9,
+            "MinPriceThreshold": 7,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -217,17 +217,6 @@
         },
         {
             "ClassName": "pleurotusmushroom",
-            "MaxPriceThreshold": 9,
-            "MinPriceThreshold": 7,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "craterellusmushroom",
             "MaxPriceThreshold": 9,
             "MinPriceThreshold": 7,
             "SellPricePercent": -1.0,

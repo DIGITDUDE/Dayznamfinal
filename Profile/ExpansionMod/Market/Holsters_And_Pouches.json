@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "chestholster",
-            "MaxPriceThreshold": 1795,
-            "MinPriceThreshold": 1075,
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "platecarrierholster",
-            "MaxPriceThreshold": 1725,
-            "MinPriceThreshold": 1035,
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -29,25 +29,13 @@
             "Variants": [
                 "platecarrierholster_green",
                 "platecarrierholster_black",
-                "platecarrierholster_camo",
-                "platecarrierholster_winter"
+                "platecarrierholster_camo"
             ]
         },
         {
             "ClassName": "platecarrierholster_camo",
-            "MaxPriceThreshold": 11845,
-            "MinPriceThreshold": 7105,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "platecarrierholster_winter",
-            "MaxPriceThreshold": 1800,
-            "MinPriceThreshold": 1080,
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -57,8 +45,8 @@
         },
         {
             "ClassName": "platecarrierpouches",
-            "MaxPriceThreshold": 1725,
-            "MinPriceThreshold": 1035,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -67,25 +55,13 @@
             "Variants": [
                 "platecarrierpouches_green",
                 "platecarrierpouches_black",
-                "platecarrierpouches_camo",
-                "platecarrierpouches_winter"
+                "platecarrierpouches_camo"
             ]
         },
         {
             "ClassName": "platecarrierpouches_camo",
-            "MaxPriceThreshold": 11845,
-            "MinPriceThreshold": 7105,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "platecarrierpouches_winter",
-            "MaxPriceThreshold": 1980,
-            "MinPriceThreshold": 1190,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 120,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -95,8 +71,8 @@
         },
         {
             "ClassName": "nylonknifesheath",
-            "MaxPriceThreshold": 855,
-            "MinPriceThreshold": 515,
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

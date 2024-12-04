@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "ghilliehood_tan",
-            "MaxPriceThreshold": 5265,
-            "MinPriceThreshold": 3160,
+            "MaxPriceThreshold": 440,
+            "MinPriceThreshold": 220,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -17,14 +17,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "ghilliehood_woodland",
-                "ghilliehood_mossy",
-                "ghilliehood_winter"
+                "ghilliehood_mossy"
             ]
         },
         {
             "ClassName": "ghilliebushrag_tan",
-            "MaxPriceThreshold": 5265,
-            "MinPriceThreshold": 3160,
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -32,14 +31,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "ghilliebushrag_woodland",
-                "ghilliebushrag_mossy",
-                "ghilliebushrag_winter"
+                "ghilliebushrag_mossy"
             ]
         },
         {
             "ClassName": "ghillietop_tan",
-            "MaxPriceThreshold": 5265,
-            "MinPriceThreshold": 3160,
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -47,14 +45,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "ghillietop_woodland",
-                "ghillietop_mossy",
-                "ghillietop_winter"
+                "ghillietop_mossy"
             ]
         },
         {
             "ClassName": "ghilliesuit_tan",
-            "MaxPriceThreshold": 5265,
-            "MinPriceThreshold": 3160,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -62,8 +59,7 @@
             "SpawnAttachments": [],
             "Variants": [
                 "ghilliesuit_woodland",
-                "ghilliesuit_mossy",
-                "ghilliesuit_winter"
+                "ghilliesuit_mossy"
             ]
         }
     ]
