@@ -13,9 +13,59 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" /> <!-- player characters -->
 		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
 		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
-		<rootclass name="BoatScript" act="car" reportMemoryLOD="no" /> <!-- boats -->
 	</classes>
 	<ce folder="db">
 		<file name="types_dzn.xml" type="types" />
+	</ce>
+	<ce folder="expansion_ce">
+		<file name="expansion_types.xml" type="types" />
+		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="expansion_events.xml" type="events" />
+	</ce>
+	<ce folder="BlackMarket">
+		<file name="Black_types.xml" type="types" />
+		<file name="Blackammo_types.xml" type="types" />
+		<file name="Black_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="Black_spawnabletypes.xml" type="randompresets" />
+	</ce>
+	<ce folder="CJ">
+		<file name="Fridge_types.xml" type="types" />
+		<file name="Poke_types.xml" type="types" />
+		<file name="Poke_cfgspawnabletypes.xml" type="spawnabletypes" />
+		<file name="Poke_cfgspawnabletypes.xml" type="randompresets" />
+	</ce>
+	<ce folder="Drugs">
+		<file name="Can_types.xml"	type="types" />
+		<file name="Drug_types.xml"	type="types" />
+	</ce>
+	<ce folder="Food">
+		<file name="Food_types.xml"	type="types"/>
+		<file name="Food_spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+	<ce folder="Gauss">
+		<file name="Gauss_types.xml"	type="types" />
+		<file name="Gauss_spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+	<ce folder="Iglo">
+		<file name="Iglo_types.xml"	type="types" />
+		<file name="NCloth_types.xml"	type="types" />
+	</ce>
+	<ce folder="Mass">
+		<file name="MassBuildings.xml"	type="types" />
+		<file name="MassClothing.xml"	type="types" />
+		<file name="MassDistractions.xml"	type="types" />
+		<file name="MassFood.xml"	type="types" />
+		<file name="MassMisc.xml"	type="types" />
+		<file name="Mass_spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+	<ce folder="Other">
+		<file name="Base_types.xml"	type="types" />
+		<file name="Flip_types.xml"	type="types" />
+		<file name="Hunt_types.xml"	type="types" />
+		<file name="Para_types.xml"	type="types" />
+		<file name="ArrakisAmmoCurrency_Types.xml"	type="types" />
+	</ce>
+	<ce folder="Mobs">
+		<file name="Mutant_types.xml" type="types" />
 	</ce>
 </economycore>
