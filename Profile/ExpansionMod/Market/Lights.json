@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "chemlight_blue",
-            "MaxPriceThreshold": 615,
-            "MinPriceThreshold": 370,
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 2,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -24,8 +24,8 @@
         },
         {
             "ClassName": "roadflare",
-            "MaxPriceThreshold": 9445,
-            "MinPriceThreshold": 5670,
+            "MaxPriceThreshold": 8,
+            "MinPriceThreshold": 4,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -35,8 +35,8 @@
         },
         {
             "ClassName": "matchbox",
-            "MaxPriceThreshold": 445,
-            "MinPriceThreshold": 265,
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 6,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -46,8 +46,8 @@
         },
         {
             "ClassName": "fireworkslauncher",
-            "MaxPriceThreshold": 825,
-            "MinPriceThreshold": 495,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -57,8 +57,8 @@
         },
         {
             "ClassName": "petrollighter",
-            "MaxPriceThreshold": 450,
-            "MinPriceThreshold": 270,
+            "MaxPriceThreshold": 16,
+            "MinPriceThreshold": 8,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -68,8 +68,8 @@
         },
         {
             "ClassName": "flashlight",
-            "MaxPriceThreshold": 280,
-            "MinPriceThreshold": 170,
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -81,8 +81,8 @@
         },
         {
             "ClassName": "xmaslights",
-            "MaxPriceThreshold": 430,
-            "MinPriceThreshold": 260,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -92,8 +92,8 @@
         },
         {
             "ClassName": "portablegaslamp",
-            "MaxPriceThreshold": 1250,
-            "MinPriceThreshold": 750,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -105,8 +105,8 @@
         },
         {
             "ClassName": "portablegasstove",
-            "MaxPriceThreshold": 605,
-            "MinPriceThreshold": 365,
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -118,8 +118,8 @@
         },
         {
             "ClassName": "headtorch_black",
-            "MaxPriceThreshold": 2955,
-            "MinPriceThreshold": 1770,
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -132,22 +132,9 @@
             ]
         },
         {
-            "ClassName": "headtorch_grey",
-            "MaxPriceThreshold": 2955,
-            "MinPriceThreshold": 1770,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
-            "Variants": []
-        },
-        {
             "ClassName": "spotlight",
-            "MaxPriceThreshold": 1115,
-            "MinPriceThreshold": 670,
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -157,8 +144,8 @@
         },
         {
             "ClassName": "universallight",
-            "MaxPriceThreshold": 4760,
-            "MinPriceThreshold": 2855,
+            "MaxPriceThreshold": 240,
+            "MinPriceThreshold": 120,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -168,8 +155,8 @@
         },
         {
             "ClassName": "tlrlight",
-            "MaxPriceThreshold": 4760,
-            "MinPriceThreshold": 2855,
+            "MaxPriceThreshold": 240,
+            "MinPriceThreshold": 120,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

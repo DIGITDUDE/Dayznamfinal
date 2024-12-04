@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "compass",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 960,
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "orienteeringcompass",
-            "MaxPriceThreshold": 555,
-            "MinPriceThreshold": 330,
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "dzn_map_namalsk",
-            "MaxPriceThreshold": 910,
-            "MinPriceThreshold": 545,
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "binoculars",
-            "MaxPriceThreshold": 1530,
-            "MinPriceThreshold": 915,
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "gpsreceiver",
-            "MaxPriceThreshold": 1425,
-            "MinPriceThreshold": 855,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -65,8 +65,8 @@
         },
         {
             "ClassName": "expansiongps",
-            "MaxPriceThreshold": 1450,
-            "MinPriceThreshold": 950,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

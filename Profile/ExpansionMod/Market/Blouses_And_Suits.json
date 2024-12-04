@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "blouse_blue",
-            "MaxPriceThreshold": 470,
-            "MinPriceThreshold": 280,
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 16,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -22,9 +22,20 @@
             ]
         },
         {
+            "ClassName": "blouse_green",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 18,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "mansuit_beige",
-            "MaxPriceThreshold": 1380,
-            "MinPriceThreshold": 830,
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 18,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,20 +52,9 @@
             ]
         },
         {
-            "ClassName": "mansuit_white",
-            "MaxPriceThreshold": 1150,
-            "MinPriceThreshold": 690,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "womansuit_beige",
-            "MaxPriceThreshold": 1380,
-            "MinPriceThreshold": 830,
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 18,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -69,83 +69,6 @@
                 "womansuit_lightgrey",
                 "womansuit_white"
             ]
-        },
-        {
-            "ClassName": "womansuit_black",
-            "MaxPriceThreshold": 2140,
-            "MinPriceThreshold": 1285,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "womansuit_blue",
-            "MaxPriceThreshold": 2140,
-            "MinPriceThreshold": 1285,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "womansuit_brown",
-            "MaxPriceThreshold": 2140,
-            "MinPriceThreshold": 1285,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "womansuit_darkgrey",
-            "MaxPriceThreshold": 1380,
-            "MinPriceThreshold": 830,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "womansuit_khaki",
-            "MaxPriceThreshold": 1380,
-            "MinPriceThreshold": 830,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "womansuit_lightgrey",
-            "MaxPriceThreshold": 1380,
-            "MinPriceThreshold": 830,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "womansuit_white",
-            "MaxPriceThreshold": 1150,
-            "MinPriceThreshold": 690,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
         }
     ]
 }
