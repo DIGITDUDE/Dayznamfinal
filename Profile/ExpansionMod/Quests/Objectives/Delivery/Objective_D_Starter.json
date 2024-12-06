@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 28,
     "ID": 4001,
     "ObjectiveType": 5,
     "ObjectiveText": "Deliver the package to the Rangers",
@@ -15,6 +15,6 @@
     ],
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
-    "MaxDistance": 20.0,
-    "MarkerName": "Talk to the ranger"
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items"
 }
