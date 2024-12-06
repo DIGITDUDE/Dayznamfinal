@@ -33,12 +33,12 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 27,
+            "ConfigVersion": 28,
             "ID": 4001,
             "ObjectiveType": 6
         },
         {
-            "ConfigVersion": 27,
+            "ConfigVersion": 28,
             "ID": 4001,
             "ObjectiveType": 5
         }
@@ -46,7 +46,9 @@
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [4001],
+    "PreQuestIDs": [
+        4001
+    ],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 1,
