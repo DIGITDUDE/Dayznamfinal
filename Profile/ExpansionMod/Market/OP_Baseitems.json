@@ -1,0 +1,155 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Base items",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "OP_Charc_BBQ",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 5,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "OP_Charcoal",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 5,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "OP_Tarp_Blue",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 5,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "OP_Tarp_Grey",
+                "OP_Tarp_Green"
+            ]
+        },
+        {
+            "ClassName": "OP_RainBarrelKit_Blue",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 5,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "OP_RainBarrelKit_Grey",
+                "OP_RainBarrelKit_Green"
+            ]
+        },
+        {
+            "ClassName": "Locker",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 5,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["OP_Lockerblue"]
+        },
+        {
+            "ClassName": "OP_StorageCabinetSmall",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 5,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "OP_StorageCabinetGrey",
+                "OP_StorageCabinetBlack",
+                "OP_StorageCabinetGreen"
+            ]
+        },
+        {
+            "ClassName": "OP_watch",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 5,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "OP_Worktable",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 5,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WoodStorage",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 5,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GardenboxEmpty",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 5,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["GardenpotEmpty"]
+        },
+        {
+            "ClassName": "OP_SleepingBagBlue",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 5,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "OP_SleepingBagGrey",
+                "OP_SleepingBagCamo"
+            ]
+        },
+        {
+            "ClassName": "OP_ImpTent",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 5,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

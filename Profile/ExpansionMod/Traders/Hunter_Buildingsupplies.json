@@ -15,7 +15,7 @@
     "Tools",
     "Flags",
     "Gardening",
-    "Kits",
+    "Kits"
     
     
   ],
@@ -23,7 +23,16 @@
       "barrel_blue":1,
       "woodencrate":1,
       "masswinterhuntingbp":1,
-      "massslingbag":1
-
+      "massslingbag":1,
+      "screwdriver":1,
+      "pliers":1,
+      "whetstone":1,
+      "hammer":1,
+      "handsaw":1,
+      "canopener":1,
+      "hatchet":1,
+      "fryingpan":1,
+      "shovel":1
+    
   }
 }
