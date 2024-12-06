@@ -6,7 +6,10 @@
     "NoiseInvestigationDistanceLimit": 500.0,
     "DamageMultiplier": 1.0,
     "DamageReceivedMultiplier": 1.0,
-    "Admins": ["76561198103345785"],
+    "Admins": [
+    "76561198103345785",
+    "76561198977019919"
+    ],
     "MaximumDynamicPatrols": -1,
     "Vaulting": 1,
     "SniperProneDistanceThreshold": 0.0,

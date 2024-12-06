@@ -1,3 +1,4 @@
+<types>
     <type name="Mass_LunchBox">
         <nominal>10</nominal>
         <min>5</min>
@@ -164,3 +165,4 @@
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
+</types>
