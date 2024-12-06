@@ -1,11 +1,11 @@
 {
   "m_Version": 12,
-  "DisplayName": "Survival Clothing Traders",
+  "DisplayName": "Survival building Traders",
   "MinRequiredReputation": 0,
   "MaxRequiredReputation": 2147483647,
   "RequiredFaction": "",
   "RequiredCompletedQuestID": -1,
-  "TraderIcon": "Gun",
+  "TraderIcon": "nails",
   "DisplayCurrencyName": "",
   "DisplayCurrencyValue": 1,
   "Currencies": [
