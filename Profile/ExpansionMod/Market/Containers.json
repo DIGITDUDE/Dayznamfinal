@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "smallprotectorcase",
-            "MaxPriceThreshold": 5670,
-            "MinPriceThreshold": 3405,
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 70,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "ammobox",
-            "MaxPriceThreshold": 57420,
-            "MinPriceThreshold": 34450,
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "barrelholes_blue",
-            "MaxPriceThreshold": 57420,
-            "MinPriceThreshold": 34450,
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 800,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -45,8 +45,8 @@
         },
         {
             "ClassName": "barrel_blue",
-            "MaxPriceThreshold": 7500,
-            "MinPriceThreshold": 4500,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -60,8 +60,8 @@
         },
         {
             "ClassName": "seachest",
-            "MaxPriceThreshold": 9040,
-            "MinPriceThreshold": 5425,
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -82,8 +82,8 @@
         },
         {
             "ClassName": "expansiontoolbox",
-            "MaxPriceThreshold": 5670,
-            "MinPriceThreshold": 3405,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -93,8 +93,8 @@
         },
         {
             "ClassName": "expansionsafemini",
-            "MaxPriceThreshold": 9040,
-            "MinPriceThreshold": 5425,
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

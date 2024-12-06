@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "headlighth7_box",
-            "MaxPriceThreshold": 1015,
-            "MinPriceThreshold": 610,
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "headlighth7",
-            "MaxPriceThreshold": 985,
-            "MinPriceThreshold": 600,
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "carradiator",
-            "MaxPriceThreshold": 1015,
-            "MinPriceThreshold": 610,
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "tirerepairkit",
-            "MaxPriceThreshold": 1015,
-            "MinPriceThreshold": 610,
+            "MaxPriceThreshold": 440,
+            "MinPriceThreshold": 220,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "sparkplug",
-            "MaxPriceThreshold": 1015,
-            "MinPriceThreshold": 610,
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "glowplug",
-            "MaxPriceThreshold": 1135,
-            "MinPriceThreshold": 680,
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "expansionigniterplug",
-            "MaxPriceThreshold": 1135,
-            "MinPriceThreshold": 680,
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -85,8 +85,8 @@
         },
         {
             "ClassName": "expansionhydraulichoses",
-            "MaxPriceThreshold": 1015,
-            "MinPriceThreshold": 610,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -96,8 +96,8 @@
         },
         {
             "ClassName": "hatchbackhood",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -105,16 +105,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchbackhood_blue",
-                "hatchbackhood_bluerust",
-                "hatchbackhood_greenrust",
-                "hatchbackhood_white",
-                "hatchbackhood_whiterust"
+                "hatchbackhood_white"
             ]
         },
         {
             "ClassName": "hatchbacktrunk",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 760,
+            "MinPriceThreshold": 380,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -122,16 +119,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchbacktrunk_blue",
-                "hatchbacktrunk_bluerust",
-                "hatchbacktrunk_greenrust",
-                "hatchbacktrunk_white",
-                "hatchbacktrunk_whiterust"
+                "hatchbacktrunk_white"
             ]
         },
         {
             "ClassName": "hatchbackdoors_driver",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -139,16 +133,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchbackdoors_driver_blue",
-                "hatchbackdoors_driver_bluerust",
-                "hatchbackdoors_driver_greenrust",
-                "hatchbackdoors_driver_white",
-                "hatchbackdoors_driver_whiterust"
+                "hatchbackdoors_driver_white"
             ]
         },
         {
             "ClassName": "hatchbackdoors_codriver",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -156,16 +147,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchbackdoors_codriver_blue",
-                "hatchbackdoors_codriver_bluerust",
-                "hatchbackdoors_codriver_greenrust",
-                "hatchbackdoors_codriver_white",
-                "hatchbackdoors_codriver_whiterust"
+                "hatchbackdoors_codriver_white"
             ]
         },
         {
             "ClassName": "hatchbackwheel",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 480,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -175,8 +163,8 @@
         },
         {
             "ClassName": "hatchback_02_hood",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -184,16 +172,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_hood_black",
-                "hatchback_02_hood_blackrust",
-                "hatchback_02_hood_redrust",
-                "hatchback_02_hood_blue",
-                "hatchback_02_hood_bluerust"
+                "hatchback_02_hood_blue"
             ]
         },
         {
             "ClassName": "hatchback_02_trunk",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 760,
+            "MinPriceThreshold": 380,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -201,16 +186,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_trunk_black",
-                "hatchback_02_trunk_blackrust",
-                "hatchback_02_trunk_redrust",
-                "hatchback_02_trunk_blue",
-                "hatchback_02_trunk_bluerust"
+                "hatchback_02_trunk_blue"
             ]
         },
         {
             "ClassName": "hatchback_02_door_1_1",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -218,16 +200,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_door_1_1_black",
-                "hatchback_02_door_1_1_blackrust",
-                "hatchback_02_door_1_1_redrust",
-                "hatchback_02_door_1_1_blue",
-                "hatchback_02_door_1_1_bluerust"
+                "hatchback_02_door_1_1_blue"
             ]
         },
         {
             "ClassName": "hatchback_02_door_1_2",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -235,16 +214,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_door_1_2_black",
-                "hatchback_02_door_1_2_blackrust",
-                "hatchback_02_door_1_2_redrust",
-                "hatchback_02_door_1_2_blue",
-                "hatchback_02_door_1_2_bluerust"
+                "hatchback_02_door_1_2_blue"
             ]
         },
         {
             "ClassName": "hatchback_02_door_2_1",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -252,16 +228,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_door_2_1_black",
-                "hatchback_02_door_2_1_blackrust",
-                "hatchback_02_door_2_1_redrust",
-                "hatchback_02_door_2_1_blue",
-                "hatchback_02_door_2_1_bluerust"
+                "hatchback_02_door_2_1_blue"
             ]
         },
         {
             "ClassName": "hatchback_02_door_2_2",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -269,16 +242,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_door_2_2_black",
-                "hatchback_02_door_2_2_blackrust",
-                "hatchback_02_door_2_2_redrust",
-                "hatchback_02_door_2_2_blue",
-                "hatchback_02_door_2_2_bluerust"
+                "hatchback_02_door_2_2_blue"
             ]
         },
         {
             "ClassName": "hatchback_02_wheel",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 480,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -288,8 +258,8 @@
         },
         {
             "ClassName": "civsedanhood",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -297,16 +267,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "civsedanhood_wine",
-                "civsedanhood_winerust",
-                "civsedanhood_whiterust",
-                "civsedanhood_black",
-                "civsedanhood_blackrust"
+                "civsedanhood_black"
             ]
         },
         {
             "ClassName": "civsedantrunk",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -314,16 +281,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "civsedantrunk_wine",
-                "civsedantrunk_winerust",
-                "civsedantrunk_whiterust",
-                "civsedantrunk_black",
-                "civsedantrunk_blackrust"
+                "civsedantrunk_black"
             ]
         },
         {
             "ClassName": "civsedandoors_driver",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -331,16 +295,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "civsedandoors_driver_wine",
-                "civsedandoors_driver_winerust",
-                "civsedandoors_driver_whiterust",
-                "civsedandoors_driver_black",
-                "civsedandoors_driver_blackrust"
+                "civsedandoors_driver_black"
             ]
         },
         {
             "ClassName": "civsedandoors_codriver",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -348,16 +309,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "civsedandoors_codriver_wine",
-                "civsedandoors_codriver_winerust",
-                "civsedandoors_codriver_whiterust",
-                "civsedandoors_codriver_black",
-                "civsedandoors_codriver_blackrust"
+                "civsedandoors_codriver_black"
             ]
         },
         {
             "ClassName": "civsedandoors_backleft",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -365,16 +323,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "civsedandoors_backleft_wine",
-                "civsedandoors_backleft_winerust",
-                "civsedandoors_backleft_whiterust",
-                "civsedandoors_backleft_black",
-                "civsedandoors_backleft_blackrust"
+                "civsedandoors_backleft_black"
             ]
         },
         {
             "ClassName": "civsedandoors_backright",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -382,16 +337,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "civsedandoors_backright_wine",
-                "civsedandoors_backright_winerust",
-                "civsedandoors_backright_whiterust",
-                "civsedandoors_backright_black",
-                "civsedandoors_backright_blackrust"
+                "civsedandoors_backright_black"
             ]
         },
         {
             "ClassName": "civsedanwheel",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 480,
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -401,8 +353,8 @@
         },
         {
             "ClassName": "sedan_02_hood",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -410,16 +362,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "sedan_02_hood_red",
-                "sedan_02_hood_redrust",
-                "sedan_02_hood_yellowrust",
-                "sedan_02_hood_grey",
-                "sedan_02_hood_greyrust"
+                "sedan_02_hood_grey"
             ]
         },
         {
             "ClassName": "sedan_02_trunk",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -427,16 +376,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "sedan_02_trunk_red",
-                "sedan_02_trunk_redrust",
-                "sedan_02_trunk_yellowrust",
-                "sedan_02_trunk_grey",
-                "sedan_02_trunk_greyrust"
+                "sedan_02_trunk_grey"
             ]
         },
         {
             "ClassName": "sedan_02_door_1_1",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -444,16 +390,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "sedan_02_door_1_1_red",
-                "sedan_02_door_1_1_redrust",
-                "sedan_02_door_1_1_yellowrust",
-                "sedan_02_door_1_1_grey",
-                "sedan_02_door_1_1_greyrust"
+                "sedan_02_door_1_1_grey"
             ]
         },
         {
             "ClassName": "sedan_02_door_1_2",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -461,16 +404,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "sedan_02_door_1_2_red",
-                "sedan_02_door_1_2_redrust",
-                "sedan_02_door_1_2_yellowrust",
-                "sedan_02_door_1_2_grey",
-                "sedan_02_door_1_2_greyrust"
+                "sedan_02_door_1_2_grey"
             ]
         },
         {
             "ClassName": "sedan_02_door_2_1",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -478,16 +418,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "sedan_02_door_2_1_red",
-                "sedan_02_door_2_1_redrust",
-                "sedan_02_door_2_1_yellowrust",
-                "sedan_02_door_2_1_grey",
-                "sedan_02_door_2_1_greyrust"
+                "sedan_02_door_2_1_grey"
             ]
         },
         {
             "ClassName": "sedan_02_door_2_2",
-            "MaxPriceThreshold": 870,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -495,16 +432,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "sedan_02_door_2_2_red",
-                "sedan_02_door_2_2_redrust",
-                "sedan_02_door_2_2_yellowrust",
-                "sedan_02_door_2_2_grey",
-                "sedan_02_door_2_2_greyrust"
+                "sedan_02_door_2_2_grey"
             ]
         },
         {
             "ClassName": "sedan_02_wheel",
-            "MaxPriceThreshold": 220,
-            "MinPriceThreshold": 130,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -514,8 +448,8 @@
         },
         {
             "ClassName": "truck_01_hood",
-            "MaxPriceThreshold": 645,
-            "MinPriceThreshold": 385,
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -523,16 +457,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "truck_01_hood_blue",
-                "truck_01_hood_orange",
-                "truck_01_hood_orangerust",
-                "truck_01_hood_bluerust",
-                "truck_01_hood_greenrust"
+                "truck_01_hood_orange"
             ]
         },
         {
             "ClassName": "truck_01_door_1_1",
-            "MaxPriceThreshold": 645,
-            "MinPriceThreshold": 385,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -540,16 +471,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "truck_01_door_1_1_blue",
-                "truck_01_door_1_1_orange",
-                "truck_01_door_1_1_orangerust",
-                "truck_01_door_1_1_bluerust",
-                "truck_01_door_1_1_greenrust"
+                "truck_01_door_1_1_orange"
             ]
         },
         {
             "ClassName": "truck_01_door_2_1",
-            "MaxPriceThreshold": 645,
-            "MinPriceThreshold": 385,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -557,16 +485,13 @@
             "SpawnAttachments": [],
             "Variants": [
                 "truck_01_door_2_1_blue",
-                "truck_01_door_2_1_orange",
-                "truck_01_door_2_1_orangerust",
-                "truck_01_door_2_1_bluerust",
-                "truck_01_door_2_1_greenrust"
+                "truck_01_door_2_1_orange"
             ]
         },
         {
             "ClassName": "truck_01_wheel",
-            "MaxPriceThreshold": 590,
-            "MinPriceThreshold": 355,
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -576,8 +501,8 @@
         },
         {
             "ClassName": "truck_01_wheeldouble",
-            "MaxPriceThreshold": 220,
-            "MinPriceThreshold": 130,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -587,8 +512,8 @@
         },
         {
             "ClassName": "offroad_02_hood",
-            "MaxPriceThreshold": 480,
-            "MinPriceThreshold": 290,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -598,73 +523,63 @@
         },
         {
             "ClassName": "offroad_02_trunk",
-            "MaxPriceThreshold": 3600,
-            "MinPriceThreshold": 2160,
+            "MaxPriceThreshold": 760,
+            "MinPriceThreshold": 380,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "offroad_02_trunk_rust"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "offroad_02_door_1_1",
-            "MaxPriceThreshold": 3600,
-            "MinPriceThreshold": 2160,
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "offroad_02_door_1_1_rust"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "offroad_02_door_1_2",
-            "MaxPriceThreshold": 3600,
-            "MinPriceThreshold": 2160,
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "offroad_02_door_1_2_rust"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "offroad_02_door_2_1",
-            "MaxPriceThreshold": 3600,
-            "MinPriceThreshold": 2160,
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "offroad_02_door_2_1_rust"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "offroad_02_door_2_2",
-            "MaxPriceThreshold": 3600,
-            "MinPriceThreshold": 2160,
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "offroad_02_door_2_2_rust"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "offroad_02_wheel",
-            "MaxPriceThreshold": 11410,
-            "MinPriceThreshold": 6845,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -1060,7 +975,7 @@
                 "expansionkeychain_grey",
                 "expansionkeychain_orange",
                 "expansionkeychain_pink",
-                "expansionkeychain_purple",
+                "expansionkeychain_purp",
                 "expansionkeychain_yellow"
             ]
         }

@@ -1,0 +1,38 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Survival building Traders",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "nails",
+  "DisplayCurrencyName": "",
+  "DisplayCurrencyValue": 1,
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "Tools",
+    "Flags",
+    "Gardening",
+    "Kits"
+    
+    
+  ],
+  "Items": {
+      "barrel_blue":1,
+      "woodencrate":1,
+      "masswinterhuntingbp":1,
+      "massslingbag":1,
+      "screwdriver":1,
+      "pliers":1,
+      "whetstone":1,
+      "hammer":1,
+      "handsaw":1,
+      "canopener":1,
+      "hatchet":1,
+      "fryingpan":1,
+      "shovel":1
+    
+  }
+}

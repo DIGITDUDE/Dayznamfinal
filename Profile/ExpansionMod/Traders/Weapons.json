@@ -18,7 +18,6 @@
         "Pistols",
         "Sniper_Rifles",
         "Shotguns",
-        "Launchers",
         "Crossbows",
         "Melee_Weapons",
         "Ammo",
@@ -33,11 +32,14 @@
     ],
     "Items": {
         "expansionammorpg": 3,
-        "universallight": 3,
+        "ammo_expansion_m203_smoke_white": 3,
         "tlrlight": 3,
-        "ammo_expansion_m203_smoke_teargas": 3,
-        "expansion_ammo_taser": 3,
         "ammo_expansion_m203_sticky_smoke_teargas": 3,
+        "universallight": 3,
+        "ammo_expansion_m203_smoke_teargas": 3,
+        "flaregun": 1,
+        "expansion_ammo_taser": 3,
+        "ammo_expansion_m203_he": 3,
         "expansionammolaw": 3,
         "ammo_expansion_m203_sticky_smoke_white": 3
     }

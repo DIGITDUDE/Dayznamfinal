@@ -1,0 +1,24 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Survival Clothing Traders",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Gun",
+  "DisplayCurrencyName": "",
+  "DisplayCurrencyValue": 1,
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "NCE_clothing:1"
+  ],
+  "Items": {
+      "huntingbag":1,
+      "massbrownhuntingbp":1,
+      "masswinterhuntingbp":1,
+      "massslingbag":1
+
+  }
+}

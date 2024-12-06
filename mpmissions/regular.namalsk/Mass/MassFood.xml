@@ -1,4 +1,5 @@
-<type name="MassHeli_MRE9">
+<types>
+    <type name="MassHeli_MRE9">
         <nominal>7</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -354,3 +355,4 @@
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
+</types>

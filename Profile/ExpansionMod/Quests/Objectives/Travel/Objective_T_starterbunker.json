@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 4001,
+    "ObjectiveType": 3,
+    "ObjectiveText": "find the bunker",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6427.89990234375,
+        16.547800064086915,
+        11424.7001953125
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Bunker",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

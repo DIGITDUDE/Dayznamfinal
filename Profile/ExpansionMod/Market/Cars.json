@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "offroadhatchback",
-            "MaxPriceThreshold": 33600,
-            "MinPriceThreshold": 20160,
+            "MaxPriceThreshold": 28000,
+            "MinPriceThreshold": 14000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
@@ -34,8 +34,8 @@
         },
         {
             "ClassName": "hatchback_02",
-            "MaxPriceThreshold": 24000,
-            "MinPriceThreshold": 14400,
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 16000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
@@ -62,8 +62,8 @@
         },
         {
             "ClassName": "sedan_02",
-            "MaxPriceThreshold": 31200,
-            "MinPriceThreshold": 18720,
+            "MaxPriceThreshold": 36000,
+            "MinPriceThreshold": 18000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
@@ -90,8 +90,8 @@
         },
         {
             "ClassName": "civiliansedan",
-            "MaxPriceThreshold": 38400,
-            "MinPriceThreshold": 23040,
+            "MaxPriceThreshold": 40000,
+            "MinPriceThreshold": 20000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
@@ -118,8 +118,8 @@
         },
         {
             "ClassName": "truck_01_covered",
-            "MaxPriceThreshold": 48000,
-            "MinPriceThreshold": 28800,
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 50000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 7,
             "MinStockThreshold": 1,
@@ -144,8 +144,8 @@
         },
         {
             "ClassName": "offroad_02",
-            "MaxPriceThreshold": 44400,
-            "MinPriceThreshold": 26640,
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 50000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 4,
             "MinStockThreshold": 1,

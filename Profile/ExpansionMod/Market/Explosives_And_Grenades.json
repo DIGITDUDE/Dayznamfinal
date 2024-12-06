@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "rgd5grenade",
-            "MaxPriceThreshold": 22085,
-            "MinPriceThreshold": 13250,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "m67grenade",
-            "MaxPriceThreshold": 22085,
-            "MinPriceThreshold": 13250,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "flashgrenade",
-            "MaxPriceThreshold": 3450,
-            "MinPriceThreshold": 2070,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "remotedetonator",
-            "MaxPriceThreshold": 11875,
-            "MinPriceThreshold": 7125,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "plastic_explosive",
-            "MaxPriceThreshold": 16965,
-            "MinPriceThreshold": 10180,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -85,8 +85,8 @@
         },
         {
             "ClassName": "grenade_chemgas",
-            "MaxPriceThreshold": 480,
-            "MinPriceThreshold": 290,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -96,8 +96,8 @@
         },
         {
             "ClassName": "m18smokegrenade_red",
-            "MaxPriceThreshold": 3450,
-            "MinPriceThreshold": 2070,
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -124,8 +124,8 @@
         },
         {
             "ClassName": "rdg2smokegrenade_black",
-            "MaxPriceThreshold": 2760,
-            "MinPriceThreshold": 1655,
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -134,17 +134,6 @@
             "Variants": [
                 "rdg2smokegrenade_white"
             ]
-        },
-        {
-            "ClassName": "rdg2smokegrenade_white",
-            "MaxPriceThreshold": 2760,
-            "MinPriceThreshold": 1655,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
         },
         {
             "ClassName": "expansionsupplysignal",
@@ -170,8 +159,8 @@
         },
         {
             "ClassName": "landminetrap",
-            "MaxPriceThreshold": 25445,
-            "MinPriceThreshold": 15265,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -181,8 +170,8 @@
         },
         {
             "ClassName": "claymoremine",
-            "MaxPriceThreshold": 26625,
-            "MinPriceThreshold": 15975,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

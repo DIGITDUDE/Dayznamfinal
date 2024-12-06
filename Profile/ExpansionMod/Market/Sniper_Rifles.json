@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "vss",
-            "MaxPriceThreshold": 9810,
-            "MinPriceThreshold": 5885,
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 1600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -21,8 +21,8 @@
         },
         {
             "ClassName": "asval",
-            "MaxPriceThreshold": 11285,
-            "MinPriceThreshold": 6770,
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 1600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -33,22 +33,9 @@
             "Variants": []
         },
         {
-            "ClassName": "vikhr",
-            "MaxPriceThreshold": 10070,
-            "MinPriceThreshold": 6040,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_vikhr_30rnd"
-            ],
-            "Variants": []
-        },
-        {
             "ClassName": "b95",
-            "MaxPriceThreshold": 7005,
-            "MinPriceThreshold": 4205,
+            "MaxPriceThreshold": 3400,
+            "MinPriceThreshold": 1700,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -58,8 +45,8 @@
         },
         {
             "ClassName": "svd",
-            "MaxPriceThreshold": 2040,
-            "MinPriceThreshold": 1225,
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -70,22 +57,9 @@
             "Variants": []
         },
         {
-            "ClassName": "sv98",
-            "MaxPriceThreshold": 7370,
-            "MinPriceThreshold": 4425,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_sv98_10rnd"
-            ],
-            "Variants": []
-        },
-        {
             "ClassName": "scout",
-            "MaxPriceThreshold": 510,
-            "MinPriceThreshold": 305,
+            "MaxPriceThreshold": 4200,
+            "MinPriceThreshold": 2100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

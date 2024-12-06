@@ -1,0 +1,33 @@
+{
+    "ConfigVersion": 28,
+    "ID": 4001,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the location of the left behind stash",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 1,
+    "ContainerName": "ExpansionQuestDeadBodylaying",
+    "DigInStash": 0,
+    "MarkerName": "stash",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            6715.02978515625,
+            27.241500854492189,
+            11342.400390625
+        ]
+    ],
+    "LootItemsAmount": 1,
+    "MaxDistance": 10.0,
+    "Loot": [
+        {
+            "Name": "ExpansionBanknoteHryvnia",
+            "Chance": 1.0,
+            "Attachments": [],
+            "QuantityPercent": 1,
+            "Max": 250,
+            "Min": 250,
+            "Variants": []
+        }
+    ]
+}

@@ -8,7 +8,18 @@
     "Items": [
         {
             "ClassName": "worm",
-            "MaxPriceThreshold": 15,
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "bonehook",
+            "MaxPriceThreshold": 10,
             "MinPriceThreshold": 5,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -19,19 +30,8 @@
         },
         {
             "ClassName": "hook",
-            "MaxPriceThreshold": 770,
-            "MinPriceThreshold": 460,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "jig",
-            "MaxPriceThreshold": 805,
-            "MinPriceThreshold": 485,
+            "MaxPriceThreshold": 14,
+            "MinPriceThreshold": 7,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "fishingrod",
-            "MaxPriceThreshold": 735,
-            "MinPriceThreshold": 440,
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

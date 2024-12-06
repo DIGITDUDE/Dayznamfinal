@@ -21,21 +21,18 @@
             "Variants": []
         },
         {
-            "ClassName": "boat_01_orange",
-            "MaxPriceThreshold": 37800,
-            "MinPriceThreshold": 22680,
+            "ClassName": "expansionzodiacboat",
+            "MaxPriceThreshold": 44000,
+            "MinPriceThreshold": 22000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "sparkplug"
+                "truckbattery",
+                "glowplug"
             ],
-            "Variants": [
-                "boat_01_black",
-                "boat_01_blue",
-                "boat_01_camo"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "expansionlhd",

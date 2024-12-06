@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "flaregun",
-            "MaxPriceThreshold": 1325,
-            "MinPriceThreshold": 795,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "m79",
-            "MaxPriceThreshold": 15045,
-            "MinPriceThreshold": 9025,
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
