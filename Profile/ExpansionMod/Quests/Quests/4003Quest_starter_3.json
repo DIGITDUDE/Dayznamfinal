@@ -25,7 +25,7 @@
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        4001
+        4000
     ],
     "QuestTurnInIDs": [
         2000
