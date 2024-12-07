@@ -17,7 +17,10 @@
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
-    "QuestItems": [],
+    "QuestItems": [ {
+        "ClassName": "Shovel",
+        "Amount": 1
+    }],
     "Rewards": [],
     "NeedToSelectReward": 0,
     "RandomReward": 0,
@@ -34,7 +37,7 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 4001,
+            "ID": 1001,
             "ObjectiveType": 6
         },
         {
@@ -47,7 +50,7 @@
     "ReputationReward": 0,
     "ReputationRequirement": -1,
     "PreQuestIDs": [
-        4001
+        
     ],
     "RequiredFaction": "",
     "FactionReward": "",
