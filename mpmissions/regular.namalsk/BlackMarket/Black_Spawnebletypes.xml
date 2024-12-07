@@ -1031,7 +1031,7 @@
 		</attachments>
 	</type>
 	
-<!-- Added 2.4 -->
+	<!-- Added 2.4 -->
 	<type name="BO_M134">
 		<attachments chance="1.00">
 			<item name="BO_Mag_M134_250rnd" chance="1.00" />
@@ -1170,7 +1170,7 @@
 		</attachments>
 	</type>
 
-<!-- Added 2.5 -->
+	<!-- Added 2.5 -->
 	<type name="BO_SR25">
 		<attachments preset="optics" />
 		<attachments preset="308" />
@@ -1188,7 +1188,7 @@
 		</attachments>
 	</type>
 	
-<!-- Added 2.6 -->
+	<!-- Added 2.6 -->
 	<type name="BO_TavorX95">
 		<attachments preset="optics" />
 		<attachments preset="m4" />
@@ -1228,7 +1228,7 @@
 		<attachments preset="reddot" />
 	</type>
 	
-<!-- Added 2.7 -->
+	<!-- Added 2.7 -->
 	<type name="BO_CAR15">
 		<attachments preset="optics" />
 		<attachments preset="m4" />
