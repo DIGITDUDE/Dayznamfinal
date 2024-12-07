@@ -900,6 +900,22 @@
         <btn name="mWheelDown" />
         <btn name="kApostrophe" />
     </input>
+    <input name="UABBPRotate">
+        <btn name="kUp" />
+    </input>
+    <input name="UACycleSize">
+        <btn name="kLeft" />
+    </input>
+    <input name="UANextSnap">
+        <btn name="mWheelUp" />
+    </input>
+    <input name="UAPrevSnap">
+        <btn name="mWheelDown" />
+    </input>
+    <input name="UASnapLook">
+        <btn name="kDown" />
+    </input>
+    <input name="UABBPTogInv" />
     <input name="UACOTModuleToggleCOT">
         <btn name="kEnd" />
     </input>
