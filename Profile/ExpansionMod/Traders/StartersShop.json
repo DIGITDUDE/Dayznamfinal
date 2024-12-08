@@ -12,10 +12,35 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
-        "Guns_and_Mags_Startshop",
-        "Ammo_Startshop",
-        "Food_and_Drinks_Startshop",
-        "Clothes_Startshop"
+        
     ],
-    "Items": {}
+    "Items": {
+        "makarovij70":1,
+        "colt1911" :1 ,
+        "mag_1911_7rnd" : 1,
+        "mag_ij70_8rnd" : 1,
+        "woolglovesfingerless_green":1,
+        "woolglovesfingerless_black":1,
+        "woolglovesfingerless_tan":1,
+        "woolglovesfingerless_white":1,
+        "tracksuitjacket_black":1,
+        "tracksuitjacket_blue":1,
+        "tracksuitjacket_green":1,
+        "tracksuitjacket_lightblue":1,
+        "tracksuitjacket_red":1,
+        "ridersjacket_black":1,
+        "expansionridersjacketbrown":1,
+        "expansionridersjacketdarkblue":1,
+        "tracksuitpants_black":1,
+        "tracksuitpants_blue":1,
+        "tracksuitpants_green":1,
+        "tracksuitpants_red":1,
+        "tracksuitpants_lightblue":1,
+        "jeans_blue":1,
+        "jeans_brown":1,
+        "jeans_grey":1,
+        "jeans_bluedark":1,
+        "jeans_green":1,
+        "jeans_black":1
+    }
 }
