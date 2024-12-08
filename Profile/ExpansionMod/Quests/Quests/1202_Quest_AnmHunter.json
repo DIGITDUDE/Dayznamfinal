@@ -1,27 +1,27 @@
 {
     "ConfigVersion": 22,
-    "ID": 4001,
+    "ID": 1202,
     "Type": 1,
-    "Title": "Welcome to Hell",
+    "Title": "Living of the Land",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "Welcome to the namalsk hell survivor, glad you made it. its a lawless wasteland out here. with the old uranium mine and the military installations here on the island the rumours of experiments unheard of, never die out. try your luck at uncovering these mystery's if you survive."
+        "Boars provide some nice meat and fat, go find some",
+        "if you want to survive you will have to know how to hunt",
+        "Well done, now go get yourself a well deserved diner"
     ],
-    "ObjectiveText": "Visit the camp at the marked location. and talk Peter",
-    "FollowUpQuest": 4002,
-    "Repeatable": 0,
-    "IsDailyQuest": 0,
+    "ObjectiveText": "Hunt a Boar",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
-    "QuestItems": [],
+    "QuestItems":[],
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 250,
+            "Amount": 100,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -34,16 +34,16 @@
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
-    "QuestGiverIDs": [],
+    "QuestGiverIDs": [1200],
     "QuestTurnInIDs": [
-        4000
+       1200
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 28,
-            "ID": 4001,
-            "ObjectiveType": 3
+            "ConfigVersion": 27,
+            "ID": 1202,
+            "ObjectiveType": 2
         }
     ],
     "QuestColor": 0,
@@ -52,9 +52,9 @@
     "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
-    "DeleteQuestItems": 1,
-    "SequentialObjectives": 1,
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
