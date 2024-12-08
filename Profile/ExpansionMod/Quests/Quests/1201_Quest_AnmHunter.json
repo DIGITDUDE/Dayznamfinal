@@ -17,7 +17,7 @@
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
-    "QuestItems":[],
+    "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
@@ -34,14 +34,16 @@
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
-    "QuestGiverIDs": [1200],
+    "QuestGiverIDs": [
+        1200
+    ],
     "QuestTurnInIDs": [
-       1200
+        1200
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 27,
+            "ConfigVersion": 28,
             "ID": 1201,
             "ObjectiveType": 2
         }
