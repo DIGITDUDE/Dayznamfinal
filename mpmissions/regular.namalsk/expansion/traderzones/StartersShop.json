@@ -8,7 +8,7 @@
     ],
     "Radius": 150.0,
     "BuyPricePercent": 50.0,
-    "SellPricePercent": -1.0,
+    "SellPricePercent": 50.0,
     "Stock": {
         "aviatorglasses": 75,
         "expansionspraycanmerlinvrana": 75,
