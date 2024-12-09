@@ -1,41 +1,51 @@
 {
     "ConfigVersion": 22,
-    "ID": 4003,
+    "ID": 1203,
     "Type": 1,
-    "Title": "My Military buddies",
+    "Title": "Living of the Land",
     "Descriptions": [
-        "not far from here my old comrads have set up camp, you should go talk them. this package is his it will help break the ice",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
+        "the Wolfs in the area are a real plague, do share and hunt some down",
+        "if you want to survive you will have to know how to hunt",
+        "Well done, now go get yourself a well deserved diner"
     ],
-    "ObjectiveText": "talk to his old army buddies",
+    "ObjectiveText": "Hunt some Wolf",
     "FollowUpQuest": -1,
-    "Repeatable": 0,
-    "IsDailyQuest": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
-    "Rewards": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 100,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
     "NeedToSelectReward": 0,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        4000
+        1200
     ],
     "QuestTurnInIDs": [
-        2000
+        1200
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 4002,
-            "ObjectiveType": 5
+            "ID": 1203,
+            "ObjectiveType": 2
         }
     ],
     "QuestColor": 0,
@@ -44,9 +54,9 @@
     "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
-    "DeleteQuestItems": 1,
-    "SequentialObjectives": 1,
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,

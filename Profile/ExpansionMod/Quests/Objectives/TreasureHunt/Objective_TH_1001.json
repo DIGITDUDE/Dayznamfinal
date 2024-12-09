@@ -1,6 +1,6 @@
 {
     "ConfigVersion": 28,
-    "ID": 1,
+    "ID": 1001,
     "ObjectiveType": 6,
     "ObjectiveText": "Find the location of the stash",
     "TimeLimit": -1,

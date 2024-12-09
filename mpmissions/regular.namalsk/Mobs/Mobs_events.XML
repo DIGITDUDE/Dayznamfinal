@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+	<event name="AthenaResearch">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>250</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_PatrolNormal_Autumn"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_PatrolNormal_Flat"/>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_PatrolNormal_PautRev"/>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_SoldierNormal"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_Heavy_Woodland"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_Officer_Desert"/>
+            <child lootmax="3" lootmin="0" max="0" min="5" type="ZmbM_NBC_Yellow"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_NBC_Grey"/>
+            <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbM_ParamedicNormal_Black"/>
+            <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbM_ParamedicNormal_Blue"/>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbF_DoctorSkinny"/>
+			<child lootmax="5" lootmin="0" max="0" min="1" type="PITSTOP_Monsters_Lechen_Hairy"/>
+        </children>
+    </event>
+</events>

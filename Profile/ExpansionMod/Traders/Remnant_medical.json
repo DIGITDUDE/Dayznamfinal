@@ -1,23 +1,21 @@
 {
     "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CONSUMABLES",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_MEDICALS",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
     "RequiredCompletedQuestID": -1,
-    "TraderIcon": "Can Of Beans Big",
+    "TraderIcon": "Medic Box",
     "Currencies": [
         "expansionbanknotehryvnia"
     ],
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
-        "Meat:1",
-        "MassFood:1",
-        "Food:1",
-        "Fruit_And_Vegetables:1",
-        "Fish:1",
-        "Drinks:1"
+        "Medical"
     ],
-    "Items": {}
+    "Items": {
+        "MassBandageDressing":1,
+        "MassBandageDressingWrapper":1
+    }
 }

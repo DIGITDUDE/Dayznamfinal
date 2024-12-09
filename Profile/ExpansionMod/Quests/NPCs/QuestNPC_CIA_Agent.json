@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 5001,
+    "ClassName": "ExpansionQuestNPCAISeth",
+    "Position": [
+        1994.46, 
+        2.44985, 
+        9679.5
+    ],
+    "Orientation": [
+        -131.355, 
+        0, 
+        -0
+    ],
+    "NPCName": "Jack Ryan",
+    "DefaultNPCText": "Hmm?",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "CIALoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "Drugsdealer",
+    "NPCType": 2,
+    "Active": 1
+}

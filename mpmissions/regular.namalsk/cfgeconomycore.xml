@@ -68,5 +68,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	</ce>
 	<ce folder="Mobs">
 		<file name="Mutant_types.xml" type="types" />
+		<file name="Mobs_events.xml" type="events" />
 	</ce>
 </economycore>
