@@ -14,7 +14,7 @@
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 1,
     "CancelQuestOnPlayerDeath": 0,
-    "Autocomplete": 0,
+    "Autocomplete": 1,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [ {
@@ -31,7 +31,7 @@
         1000
     ],
     "QuestTurnInIDs": [
-        1000
+        
     ],
     "IsAchievement": 0,
     "Objectives": [

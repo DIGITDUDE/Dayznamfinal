@@ -19,9 +19,12 @@
     "MaxDistance": 10.0,
     "Loot": [
         {
-            "Name": "Binoculars",
-            "Chance": 0.30000001192092898,
-            "Attachments": [],
+            "Name": "BO_R700",
+            "Chance": 1.0,
+            "Attachments": [ {
+                "Name": "HuntingOptic",
+                "Chance": 1.0,
+                "Attachments": []],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
@@ -29,7 +32,7 @@
         },
         {
             "Name": "Rangefinder",
-            "Chance": 0.05000000074505806,
+            "Chance": 1.0,
             "Attachments": [
                 {
                     "Name": "Battery9V",
@@ -43,8 +46,17 @@
             "Variants": []
         },
         {
-            "Name": "GhillieAtt_Mossy",
-            "Chance": 0.05000000074505806,
+            "Name": "BO_Mag_R700_5rnd",
+            "Chance": 1.0,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "BO_Mag_R700_5rnd",
+            "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": -1,
             "Max": -1,
@@ -53,7 +65,7 @@
         },
         {
             "Name": "WeaponCleaningKit",
-            "Chance": 0.05000000074505806,
+            "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": -1,
             "Max": -1,
@@ -61,8 +73,8 @@
             "Variants": []
         },
         {
-            "Name": "dzn_map_namalsk",
-            "Chance": 0.30000001192092898,
+            "Name": "AmmoBox_308Win_20Rnd",
+            "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": -1,
             "Max": -1,
