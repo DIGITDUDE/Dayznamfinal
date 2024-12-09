@@ -404,6 +404,11 @@
                 "Attachments": []
             },
             {
+                "ClassName": "KitchenKnife",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
                 "ClassName": "Heatpack",
                 "Quantity": -1,
                 "Attachments": []
@@ -422,11 +427,6 @@
             },
             {
                 "ClassName": "dzn_tool_watch",
-                "Quantity": -1,
-                "Attachments": []
-            },
-            {
-                "ClassName": "KitchenKnife",
                 "Quantity": -1,
                 "Attachments": []
             }
