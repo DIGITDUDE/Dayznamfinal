@@ -356,16 +356,10 @@
         "Glasses": [],
         "Masks": [],
         "Tops": [
-            "TShirt_Green",
-            "TShirt_Blue",
-            "TShirt_Black",
-            "TShirt_Beige",
-            "TShirt_Red",
-            "TShirt_OrangeWhiteStripes",
-            "TShirt_White",
-            "TShirt_Red",
-            "TShirt_Grey",
-            "TShirt_RedBlackStripes"
+            "Sweater_Red",
+            "Sweater_Green",
+            "Sweater_Blue",
+            "Sweater_Gray"
         ],
         "Vests": [],
         "Gloves": [],
@@ -410,7 +404,14 @@
                 "Attachments": []
             },
             {
-                "ClassName": "Apple",
+                "ClassName": "Heatpack",
+                "Quantity": -1,
+                "Attachments": []
+            }
+        ],
+        "PantsGear": [
+            {
+                "ClassName": "BakedBeansCan",
                 "Quantity": -1,
                 "Attachments": []
             },
@@ -418,16 +419,14 @@
                 "ClassName": "RoadFlare",
                 "Quantity": 2,
                 "Attachments": []
-            }
-        ],
-        "PantsGear": [
+            },
             {
-                "ClassName": "Heatpack",
+                "ClassName": "dzn_tool_watch",
                 "Quantity": -1,
                 "Attachments": []
             },
             {
-                "ClassName": "dzn_tool_watch",
+                "ClassName": "KitchenKnife",
                 "Quantity": -1,
                 "Attachments": []
             }
