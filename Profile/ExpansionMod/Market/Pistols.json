@@ -87,8 +87,8 @@
         },
         {
             "ClassName": "colt1911",
-            "MaxPriceThreshold": 680,
-            "MinPriceThreshold": 340,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
