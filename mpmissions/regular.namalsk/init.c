@@ -53,7 +53,7 @@ class CustomMission: MissionServer
 			m_EventManagerServer.RegisterEvent( HeavyFog, 0.3 );
 		}
 		SpawnZombieGroup(30 , 5, 2 , Vector(861.75, 5861.75, 5861.75), 50)
-		SpawnZombie()
+		SpawnZombie(,)
 	}
 
 	void SetRandomHealth(EntityAI itemEnt)
