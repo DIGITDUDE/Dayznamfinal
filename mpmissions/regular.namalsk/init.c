@@ -29,7 +29,7 @@ void main()
 	}
 
 	
-	SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", Zombiepos[i]);
+	SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", );
 };
 
 class CustomMission: MissionServer
