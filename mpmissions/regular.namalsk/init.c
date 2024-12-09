@@ -29,7 +29,7 @@ void main()
 	}
 
 	
-	SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", Zombiepos[i]);
+	
 };
 
 class CustomMission: MissionServer
@@ -52,8 +52,7 @@ class CustomMission: MissionServer
 			m_EventManagerServer.RegisterEvent( EVRStorm, 0.35 );
 			m_EventManagerServer.RegisterEvent( HeavyFog, 0.3 );
 		}
-		SpawnZombieGroup(30 , 5, 2 , Vector(861.75, 5861.75, 5861.75), 50)
-		SpawnZombie(,)
+		
 	}
 
 	void SetRandomHealth(EntityAI itemEnt)
