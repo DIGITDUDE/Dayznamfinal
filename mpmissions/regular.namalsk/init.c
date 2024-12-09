@@ -27,6 +27,9 @@ void main()
 		
 		GetGame().GetWorld().SetDate( year, month, day, hour, minute );
 	}
+
+	
+	SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", Zombiepos[i]);
 };
 
 class CustomMission: MissionServer
