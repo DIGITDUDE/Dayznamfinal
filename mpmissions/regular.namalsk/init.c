@@ -49,7 +49,7 @@ class CustomMission: MissionServer
 			m_EventManagerServer.RegisterEvent( EVRStorm, 0.35 );
 			m_EventManagerServer.RegisterEvent( HeavyFog, 0.3 );
 		}
-		SpawnZombieGroup(30 , 5, 2 ,Vector(861.75, 5861.75, 5861.75), 50)
+		
 	}
 
 	void SetRandomHealth(EntityAI itemEnt)
@@ -120,6 +120,25 @@ class CustomMission: MissionServer
 
 		// add temporal resistance against the common cold
 		player.SetTemporaryResistanceToAgent(eAgents.INFLUENZA, 900);
+	}
+	override void Expansion_OnQuestStart(ExpansionQuest quest)
+	{
+		EntityAI itemIn;
+		EntityAI itemEnt;
+		ItemBase itemBs;
+        ExpansionQuestConfig questConfig = quest.GetQuestConfig();
+		auto trace = EXTrace.Start(EXTrace.NAMALSKADVENTURE, this);   
+        PlayerBase player = quest.GetPlayer();
+		 if (!player)
+            return;
+        switch(questConfig.GetID())
+			{
+                case 1001:
+                {
+					SpawnAnimal("Animal_HMG_Bear_Cocaine_T0", Vector(5513.33,117.502,8141.14))
+					SpawnZombieGroup(30 , 5, 2 , Vector(861.75, 5861.75, 5861.75), 50)
+                }
+				break;
 	}
 };
   
