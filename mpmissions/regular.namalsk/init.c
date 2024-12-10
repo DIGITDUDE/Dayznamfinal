@@ -140,8 +140,7 @@ class CustomMission: MissionServer
 			{
 				case 4003:
                 {
-					SpawnZombieGroup(30 , 5 ,2 ,Vector(5893.5, 23.8386, 10234.8),50);
-					SpawnZombie("ZmbM_CitizenASkinny_Blue",Vector(5893.5, 23.8386, 10234.8));
+					SpawnZombieGroup(50 , 0 ,0 ,Vector(5727.87, 21.8764, 9850.04),20);
 				}
 			}
 	}
