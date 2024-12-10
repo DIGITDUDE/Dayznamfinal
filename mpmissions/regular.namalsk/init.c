@@ -52,8 +52,7 @@ class CustomMission: MissionServer
 			m_EventManagerServer.RegisterEvent( EVRStorm, 0.35 );
 			m_EventManagerServer.RegisterEvent( HeavyFog, 0.3 );
 		}
-		SpawnZombieGroup(30 , 5 ,2 ,Vector(5893.5, 23.8386, 10234.8),50);
-		SpawnZombie("ZmbM_CitizenASkinny_Blue",Vector(5893.5, 23.8386, 10234.8));
+		
 		
 	}
 
