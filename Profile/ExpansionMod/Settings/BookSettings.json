@@ -252,7 +252,10 @@
                 "expansionstairkit",
                 "territoryflagkit",
                 "expansionwallkit",
-                "watchtowerkit"
+                "watchtowerkit",
+                "WoodStorage",
+                "OP_Worktable",
+                "Locker"
             ]
         },
         {

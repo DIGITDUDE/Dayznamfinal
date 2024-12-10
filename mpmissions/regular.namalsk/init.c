@@ -29,7 +29,7 @@ void main()
 	}
 
 	
-	SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", );
+	
 };
 
 class CustomMission: MissionServer
@@ -52,8 +52,8 @@ class CustomMission: MissionServer
 			m_EventManagerServer.RegisterEvent( EVRStorm, 0.35 );
 			m_EventManagerServer.RegisterEvent( HeavyFog, 0.3 );
 		}
-		SpawnZombieGroup(30 , 5, 2 , Vector(861.75, 5861.75, 5861.75), 50)
-		SpawnZombie(,)
+		SpawnZombieGrou(30 , 5 ,2 ,Vector(5893.5, 23.8386, 10234.8))
+		
 	}
 
 	void SetRandomHealth(EntityAI itemEnt)
@@ -125,6 +125,25 @@ class CustomMission: MissionServer
 		// add temporal resistance against the common cold
 		player.SetTemporaryResistanceToAgent(eAgents.INFLUENZA, 900);
 	}
+	override void Expansion_OnQuestStart(ExpansionQuest quest)
+	{
+		EntityAI itemIn;
+		EntityAI itemEnt;
+		ItemBase itemBs;
+        ExpansionQuestConfig questConfig = quest.GetQuestConfig();
+		auto trace = EXTrace.Start(EXTrace.NAMALSKADVENTURE, this);   
+        PlayerBase player = quest.GetPlayer();
+		 if (!player)
+            return;
+        switch(questConfig.GetID())
+			{
+				case 4003:
+                {
+					SpawnZombieGrou(30 , 5 ,2 ,Vector(5893.5, 23.8386, 10234.8))
+				}
+			}
+	}
+
 	
 };  
 Mission CreateCustomMission(string path)

@@ -1,14 +1,14 @@
 {
     "ConfigVersion": 22,
-    "ID": 7,
+    "ID": 4003,
     "Type": 1,
-    "Title": "Kill - Civilian Infected",
+    "Title": "Kill - Infected",
     "Descriptions": [
         "PLACEHOLDER",
         "PLACEHOLDER",
         "PLACEHOLDER"
     ],
-    "ObjectiveText": "Kill 40 civilian Infected.",
+    "ObjectiveText": "Kill 40 Infected.",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,
@@ -44,7 +44,7 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 2,
+            "ID": 4003,
             "ObjectiveType": 2
         }
     ],
