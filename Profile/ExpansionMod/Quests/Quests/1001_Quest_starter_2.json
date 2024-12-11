@@ -11,8 +11,8 @@
     "ObjectiveText": "Find the stash.",
     "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 1,
     "IsGroupQuest": 0,
@@ -41,11 +41,6 @@
             "ConfigVersion": 28,
             "ID": 1001,
             "ObjectiveType": 6
-        },
-        {
-            "ConfigVersion": 28,
-            "ID": 4001,
-            "ObjectiveType": 5
         }
     ],
     "QuestColor": 0,

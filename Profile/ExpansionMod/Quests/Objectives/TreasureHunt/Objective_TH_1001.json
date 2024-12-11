@@ -19,34 +19,31 @@
     "MaxDistance": 10.0,
     "Loot": [
         {
-            "Name": "BO_R700",
+            "Name": "BO_M40A1_Green",
             "Chance": 1.0,
             "Attachments": [ {
                 "Name": "HuntingOptic",
                 "Chance": 1.0,
-                "Attachments": []],
+                "Attachments": [],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
             "Variants": []
         },
         {
-            "Name": "Rangefinder",
+            "Name": "RangeFinder",
             "Chance": 1.0,
-            "Attachments": [
-                {
-                    "Name": "Battery9V",
-                    "Chance": 1.0,
-                    "Attachments": []
-                }
-            ],
+            "Attachments": [ {
+                "Name": "Battery9v",
+                "Chance": 1.0,
+                "Attachments": [],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
             "Variants": []
         },
         {
-            "Name": "BO_Mag_R700_5rnd",
+            "Name": "BO_CorduraSuppressor_Green",
             "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": -1,
@@ -55,7 +52,7 @@
             "Variants": []
         },
         {
-            "Name": "BO_Mag_R700_5rnd",
+            "Name": "AmmoBox_308Win_20Rnd",
             "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": -1,
@@ -64,7 +61,7 @@
             "Variants": []
         },
         {
-            "Name": "WeaponCleaningKit",
+            "Name": "AmmoBox_308Win_20Rnd",
             "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": -1,
