@@ -1,0 +1,64 @@
+{
+    "ConfigVersion": 22,
+    "ID": 4003,
+    "Type": 1,
+    "Title": "Clear Sebjan dam and open up the trade route",
+    "Descriptions": [
+        "on the other side of Sebjan dam is an old military base, we used to deliver food there in exchange for ammo. but since the last storm sebjan dam is over run by zombies. if you can clear them out i'm sure these old russian comrads are willing to help you to some better weapons and gear",
+        "this wont be an easy task so make sure you and your team are well prepared",
+        "PLACEHOLDER"
+    ],
+    "ObjectiveText": "Kill 40 Infected.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 1000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        4000
+    ],
+    "QuestTurnInIDs": [
+        2000
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 4003,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 200,
+    "ReputationRequirement": 1000,
+    "PreQuestIDs": [4002],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

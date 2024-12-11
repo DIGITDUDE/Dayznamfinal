@@ -27,6 +27,9 @@ void main()
 		
 		GetGame().GetWorld().SetDate( year, month, day, hour, minute );
 	}
+
+	
+	
 };
 
 class CustomMission: MissionServer
@@ -49,6 +52,8 @@ class CustomMission: MissionServer
 			m_EventManagerServer.RegisterEvent( EVRStorm, 0.35 );
 			m_EventManagerServer.RegisterEvent( HeavyFog, 0.3 );
 		}
+		
+		
 	}
 
 	void SetRandomHealth(EntityAI itemEnt)
@@ -120,8 +125,27 @@ class CustomMission: MissionServer
 		// add temporal resistance against the common cold
 		player.SetTemporaryResistanceToAgent(eAgents.INFLUENZA, 900);
 	}
-};
-  
+	override void Expansion_OnQuestStart(ExpansionQuest quest)
+	{
+		EntityAI itemIn;
+		EntityAI itemEnt;
+		ItemBase itemBs;
+        ExpansionQuestConfig questConfig = quest.GetQuestConfig();
+		auto trace = EXTrace.Start(EXTrace.NAMALSKADVENTURE, this);   
+        PlayerBase player = quest.GetPlayer();
+		 if (!player)
+            return;
+        switch(questConfig.GetID())
+			{
+				case 4003:
+                {
+					SpawnZombieGroup(50 , 0 ,0 ,Vector(5727.87, 21.8764, 9850.04),20);
+				}
+			}
+	}
+
+	
+};  
 Mission CreateCustomMission(string path)
 {
 	return new CustomMission();
