@@ -18,65 +18,73 @@
     "LootItemsAmount": 0,
     "MaxDistance": 10.0,
     "Loot": [
-        {
-            "Name": "BO_M40A1_Green",
-            "Chance": 1.0,
-            "Attachments": [ {
-                "Name": "HuntingOptic",
-                "Chance": 1.0,
-                "Attachments": [],
-            "QuantityPercent": -1,
-            "Max": -1,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "RangeFinder",
-            "Chance": 1.0,
-            "Attachments": [ {
-                "Name": "Battery9v",
-                "Chance": 1.0,
-                "Attachments": [],
-            "QuantityPercent": -1,
-            "Max": -1,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "BO_CorduraSuppressor_Green",
-            "Chance": 1.0,
-            "Attachments": [],
-            "QuantityPercent": -1,
-            "Max": -1,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "AmmoBox_308Win_20Rnd",
-            "Chance": 1.0,
-            "Attachments": [],
-            "QuantityPercent": -1,
-            "Max": -1,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "AmmoBox_308Win_20Rnd",
-            "Chance": 1.0,
-            "Attachments": [],
-            "QuantityPercent": -1,
-            "Max": -1,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "AmmoBox_308Win_20Rnd",
-            "Chance": 1.0,
-            "Attachments": [],
-            "QuantityPercent": -1,
-            "Max": -1,
-            "Min": 0,
-            "Variants": []
-        }
-    ]
+                {
+                    "Name": "BO_M40A1_Green",
+                    "Chance": 1.0,
+                    "Attachments": 
+                    [ 
+                        {
+                            "Name": "HuntingOptic",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "RangeFinder",
+                    "Chance": 1.0,
+                    "Attachments": 
+                    [ 
+                        {
+                                "Name": "Battery9v",
+                                "Chance": 1.0,
+                                "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BO_CorduraSuppressor_Green",
+                    "Chance": 1.0,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "AmmoBox_308Win_20Rnd",
+                    "Chance": 1.0,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "AmmoBox_308Win_20Rnd",
+                    "Chance": 1.0,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "AmmoBox_308Win_20Rnd",
+                    "Chance": 1.0,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                }
+            ]
 }

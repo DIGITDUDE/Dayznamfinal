@@ -2,6 +2,17 @@
 <messages>
     <!-- This is example message for automatic server termination -->
     <message>
+        <onConnect>1</onConnect>
+        <!-- no delay -->
+        <delay>0</delay>
+ 
+        <!-- if the value is larger than 0, then flag Repeat is enabled -->
+        <repeat>0</repeat> 
+
+        <!-- message itself with placeholders -->
+        <text>Welcome to Brainbuffet Namalsk Server. Press B to check the info</text>
+    </message>
+    <message>
         <!-- no delay -->
         <delay>0</delay>
  
@@ -10,7 +21,7 @@
  
         <!-- if the value is larger than 0, then flag Countdown is enabled,
              countdown reaches zero in 10 hours --> 
-        <deadline>480</deadline>
+        <deadline>240</deadline>
  
         <!-- disable On connect flag -->
         <onconnect>0</onconnect>
