@@ -1,6 +1,6 @@
 {
     "ConfigVersion": 28,
-    "ID": 1,
+    "ID": 2001,
     "ObjectiveType": 6,
     "ObjectiveText": "Dig up the stashed equipment",
     "TimeLimit": -1,
@@ -12,9 +12,7 @@
     "MarkerVisibility": 4,
     "Positions": [
         [
-            8950.41,
-            5.05746,
-            10602.6
+            8950.41, 5.05746, 10602.6
         ]
     ],
     "LootItemsAmount": 0,
