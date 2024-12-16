@@ -6,7 +6,7 @@
     "TimeLimit": -1,
     "Active": 1,
     "ShowDistance": 1,
-    "ContainerName": "ExpansionQuestSeaChest",
+    "ContainerName": "ExpansionQuestItemPackage",
     "DigInStash": 1,
     "MarkerName": "???",
     "MarkerVisibility": 4,
@@ -15,7 +15,7 @@
             4980.51, 49.9972, 8008.16
         ]
     ],
-    "LootItemsAmount": 0,
+    "LootItemsAmount": 1,
     "MaxDistance": 10.0,
     "Loot": [
                 {
