@@ -1,6 +1,6 @@
 {
     "ConfigVersion": 22,
-    "ID": 4003,
+    "ID": 1002,
     "Type": 1,
     "Title": "Clear Sebjan dam and open up the trade route",
     "Descriptions": [
@@ -32,10 +32,10 @@
     "NeedToSelectReward": 0,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        4000
+        1000
     ],
     "QuestTurnInIDs": [
         2000

@@ -604,7 +604,7 @@
     <event name="VehicleRubberBoats">
         <nominal>6</nominal>
         <min>6</min>
-        <max>6</max>
+        <max>10</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -622,9 +622,9 @@
         </children>
     </event>
     <event name="VehicleCivilianCars">
-        <nominal>4</nominal>
-        <min>4</min>
-        <max>4</max>
+        <nominal>8</nominal>
+        <min>8</min>
+        <max>10</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -642,9 +642,9 @@
         </children>
     </event>
     <event name="VehicleTrucks">
-        <nominal>2</nominal>
+        <nominal>3</nominal>
         <min>2</min>
-        <max>2</max>
+        <max>4</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -659,9 +659,9 @@
         </children>
     </event>
     <event name="VehicleMilitary">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <min>2</min>
-        <max>2</max>
+        <max>4</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
