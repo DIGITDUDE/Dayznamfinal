@@ -141,6 +141,11 @@ class CustomMission: MissionServer
                 {
 					SpawnZombieGroup(50 , 0 ,0 ,Vector(5727.87, 21.8764, 9850.04),20);
 				}
+				break;
+				case 1011:
+                {
+					SpawnAnimal("Animal_HMG_Bear_Cocaine_T0", Vector(5513.33,117.502,8141.14))
+                }
 			}
 	}
 
