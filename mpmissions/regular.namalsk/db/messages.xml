@@ -4,7 +4,7 @@
     <message>
         <onConnect>1</onConnect>
         <!-- no delay -->
-        <delay>0</delay>
+        <delay>1</delay>
  
         <!-- if the value is larger than 0, then flag Repeat is enabled -->
         <repeat>0</repeat> 
