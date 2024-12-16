@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 28,
     "ID": 1003,
     "ObjectiveType": 6,
     "ObjectiveText": "Find the location of the left behind stash",
@@ -12,9 +12,9 @@
     "MarkerVisibility": 4,
     "Positions": [
         [
-            5531.24, 
-            116.376, 
-            8151.61
+            5531.240234375,
+            116.3759994506836,
+            8151.60986328125
         ]
     ],
     "LootItemsAmount": 1,
@@ -22,7 +22,7 @@
     "Loot": [
         {
             "Name": "ExpansionBanknoteHryvnia",
-            "Chance": 1,
+            "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": 1,
             "Max": 250,
@@ -31,4 +31,3 @@
         }
     ]
 }
-

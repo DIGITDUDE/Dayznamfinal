@@ -41,11 +41,10 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 27,
+            "ConfigVersion": 28,
             "ID": 1003,
             "ObjectiveType": 3
         }
-        
     ],
     "QuestColor": 0,
     "ReputationReward": 0,

@@ -5,7 +5,7 @@
         <nominal>5</nominal>
         <lifetime>36000</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -22,7 +22,7 @@
         <nominal>5</nominal>
         <lifetime>36000</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -39,7 +39,7 @@
         <nominal>5</nominal>
         <lifetime>36000</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56,7 +56,7 @@
         <nominal>5</nominal>
         <lifetime>36000</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -73,7 +73,7 @@
         <nominal>5</nominal>
         <lifetime>36000</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -90,7 +90,7 @@
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -107,7 +107,7 @@
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -124,7 +124,7 @@
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -141,7 +141,7 @@
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -158,7 +158,7 @@
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -175,7 +175,7 @@
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -192,7 +192,7 @@
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -209,7 +209,7 @@
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -226,7 +226,7 @@
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -243,7 +243,7 @@
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -260,7 +260,7 @@
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -277,7 +277,7 @@
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -294,7 +294,7 @@
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -311,7 +311,7 @@
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -328,7 +328,7 @@
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -345,7 +345,7 @@
         <nominal>50</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -355,14 +355,14 @@
         <usage name="Farm" />
         <tag name="civilian"/>
         <tag name="industrial"/>
-        <value user="Tier12345"/>
+        <value user="Tier12"/>
         
     </type>
     <type name="PokemonBooster002_1">
         <nominal>50</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -372,13 +372,13 @@
         <usage name="Farm" />
         <tag name="civilian"/>
         <tag name="industrial"/>
-        <value user="Tier12345"/>        
+        <value user="Tier12"/>        
     </type>
     <type name="PokemonBooster003_1">
         <nominal>50</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>200</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -388,13 +388,13 @@
         <usage name="Farm" />
         <tag name="civilian"/>
         <tag name="industrial"/>
-        <value user="Tier12345"/>        
+        <value user="Tier12"/>        
     </type>
     <type name="PokemonBooster001_3">
         <nominal>50</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -404,13 +404,13 @@
         <usage name="Farm" />
         <tag name="civilian"/>
         <tag name="industrial"/>
-        <value user="Tier12345"/>        
+        <value user="Tier12"/>        
     </type>
     <type name="PokemonBooster002_3">
         <nominal>50</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -420,13 +420,13 @@
         <usage name="Farm" />
         <tag name="civilian"/>
         <tag name="industrial"/>
-        <value user="Tier12345"/>        
+        <value user="Tier12"/>        
     </type>
     <type name="PokemonBooster003_3">
         <nominal>50</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -436,13 +436,13 @@
         <usage name="Farm" />
         <tag name="civilian"/>
         <tag name="industrial"/>
-        <value user="Tier12345"/>        
+        <value user="Tier12"/>        
     </type>
     <type name="PokemonBooster001_5">
         <nominal>50</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -452,13 +452,13 @@
         <usage name="Farm" />
         <tag name="civilian"/>
         <tag name="industrial"/>
-        <value user="Tier12345"/>        
+        <value user="Tier12"/>        
     </type>
     <type name="PokemonBooster002_5">
         <nominal>50</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>50</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -468,13 +468,13 @@
         <usage name="Farm" />
         <tag name="civilian"/>
         <tag name="industrial"/>
-        <value user="Tier12345"/>
+        <value user="Tier12"/>
     </type>
     <type name="PokemonBooster003_5">
         <nominal>50</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>50</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -484,7 +484,7 @@
         <usage name="Farm" />
         <tag name="civilian"/>
         <tag name="industrial"/>
-        <value user="Tier12345"/>        
+        <value user="Tier12"/>        
     </type>
     <type name="PokemonEnergy1">
         <lifetime>21600</lifetime>

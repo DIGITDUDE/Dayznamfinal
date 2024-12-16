@@ -9,6 +9,7 @@
         "Well done, now go get yourself a well deserved diner"
     ],
     "ObjectiveText": "Shoot and Deliver",
+    "FollowUpQuest": 0,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
@@ -16,7 +17,7 @@
     "Autocomplete": 0,
     "IsGroupQuest": 1,
     "ObjectSetFileName": "",
-    "QuestItems":[],
+    "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
@@ -40,12 +41,12 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 27,
+            "ConfigVersion": 28,
             "ID": 1003,
             "ObjectiveType": 6
         },
         {
-            "ConfigVersion": 27,
+            "ConfigVersion": 28,
             "ID": 1003,
             "ObjectiveType": 2
         }
@@ -53,7 +54,9 @@
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [1003],
+    "PreQuestIDs": [
+        1003
+    ],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 1,
