@@ -33,7 +33,7 @@ DayZServer_x64.exe
 config/config.vdf
 config/config.vdf
 mpmissions/regular.namalsk/storage_1/
-
+/steamcmd
 Profile/PermissionsFramework/Players/ATxI-JFgZxkWYr7Quf7frIHZioARfFT0VaBU8wOvx1E.json
 Profile/ExpansionMod/ATM/ATxI-JFgZxkWYr7Quf7frIHZioARfFT0VaBU8wOvx1E=.json
 Profile/MMIO/Clothes.json
@@ -43,3 +43,13 @@ config/
 steamcmd/steamcmd.exe
 Profile/BattlEye/BEServer_x64_active_71f0.cfg
 Profile/BattlEye/beserver_x64.so
+_CommonRedist/DotNet/4.5.2/Microsoft .NET Framework 4.5.2.cmd
+_CommonRedist/DotNet/4.5.2/noop.cmd
+.gitignore
+_CommonRedist/vcredist/2013/vcredist_x64.exe
+_CommonRedist/DotNet/4.5.2/NDP452-KB2901907-x86-x64-AllOS-ENU.exe
+_CommonRedist/vcredist/2013/vcredist_x86.exe
+_CommonRedist/vcredist/2019/Microsoft Visual C++ 2019 x64.cmd
+_CommonRedist/vcredist/2019/Microsoft Visual C++ 2019 x86.cmd
+_CommonRedist/vcredist/2019/VC_redist.x64.exe
+_CommonRedist/vcredist/2019/VC_redist.x86.exe
