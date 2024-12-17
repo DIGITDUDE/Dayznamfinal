@@ -40,3 +40,6 @@ Profile/MMIO/Clothes.json
 Profile/MMIO/Misc.json
 config/config.vdf
 config/
+steamcmd/steamcmd.exe
+Profile/BattlEye/BEServer_x64_active_71f0.cfg
+Profile/BattlEye/beserver_x64.so

@@ -5,7 +5,9 @@
         "Hill",
         "Local",
         "Marine",
-        "Village"
+        "Village",
+        "quests",
+        "Quests"
     ],
     "Locations": [
         {
@@ -525,6 +527,36 @@
                 4705.22998046875,
                 0.0,
                 8892.759765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "quests",
+            "Name": "KustSKATquest",
+            "Position": [
+                8970.5283203125,
+                3.9400503635406496,
+                10599.96484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Quests",
+            "Name": "MilRem",
+            "Position": [
+                4644.05126953125,
+                6.221683025360107,
+                9834.77734375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Quests",
+            "Name": "HunterBase",
+            "Position": [
+                8059.26171875,
+                70.5833511352539,
+                11220.435546875
             ],
             "Radius": 4.0
         }
