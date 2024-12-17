@@ -1,0 +1,54 @@
+"AppState"
+{
+	"appid"		"223350"
+	"Universe"		"1"
+	"LauncherPath"		"C:\\daisy\\DayZServerNam\\steamcmd\\steamcmd.exe"
+	"name"		"DayZ Server"
+	"StateFlags"		"4"
+	"installdir"		"DayZServer"
+	"LastUpdated"		"1734444102"
+	"LastPlayed"		"0"
+	"SizeOnDisk"		"3912317390"
+	"StagingSize"		"0"
+	"buildid"		"16394708"
+	"LastOwner"		"76561199349510129"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"1374105072"
+	"BytesDownloaded"		"1374105072"
+	"BytesToStage"		"4025223464"
+	"BytesStaged"		"4025223464"
+	"TargetBuildID"		"16394708"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"223351"
+		{
+			"manifest"		"865615498481674198"
+			"size"		"3567250034"
+		}
+		"223353"
+		{
+			"manifest"		"6795060058952257708"
+			"size"		"42134000"
+		}
+		"223354"
+		{
+			"manifest"		"4244501175515790288"
+			"size"		"302933356"
+		}
+	}
+	"SharedDepots"
+	{
+		"228985"		"228980"
+		"228988"		"228980"
+		"229004"		"228980"
+	}
+	"UserConfig"
+	{
+	}
+	"MountedConfig"
+	{
+	}
+}

@@ -8,10 +8,16 @@ COLOR 0A
     SET SteamCMDPath="C:\daisy\DayZServerNam\SteamCMD"
     SET BECPath="C:\daisy\BEC"
     :: DayZ Mod Parameters
-    set DayZModList=(C:\Servers\DayZ\Modlist.txt)
-    set SteamCMDWorkshopPath="C:\daisy\DayZServerNam\steamapps\workshop\content\221100"
+    set DayZModList=(C:\daisy\DayZServerNam\Modlist.txt)
+    set SteamCMDWorkshopPath="C:\daisy\DayZServerNam\SteamCMD\steamapps\workshop\content\221100"
     set SteamCMDDelay=5
+    set serverName=Brains Buffet Namalsk
+    set serverPort=2302
+    set serverConfig=serverDZ.cfg
+    set serverProfile=profile
+    set serverCPU=12
     setlocal EnableDelayedExpansion
+
     :: _______________________________________________________________
  
 goto checkServer
@@ -42,7 +48,6 @@ goto checkServer
 :killServer
 taskkill /f /im Bec.exe
 taskkill /f /im DayZServer_x64.exe
-taskkill /f /im DZSALModServer.exe
 goto updateServer
  
 :updateServer
@@ -68,7 +73,8 @@ timeout 1 >nul
 cls
 echo Starting DayZ SA Server...
 cd "%DayZServerPath%"
-start DZSALModServer.exe -instanceId=1 -config=serverDZ.cfg -profiles=ServerName -port=2302 -mod=!MODS_TO_LOAD!% -cpuCount=8 -noFilePatching -dologs -adminlog -freezecheck
+::start DayZServer_x64.exe -instanceId=1 -config=serverDZ.cfg -profiles=profile -port=2302 -mod=!MODS_TO_LOAD!% -cpuCount=8 -noFilePatching -dologs -adminlog -freezecheck
+start "DayZ Server" /min "C:\daisy\DayZServerNam\DayZServer_x64.exe" -config=%serverConfig% -mod=!MODS_TO_LOAD!% -port=%serverPort% -profiles=%serverProfile% -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck"-mod=@Namalsk Survival (server);@Namalsk Island (server);@Treasure;@TreasurePhotosNamalsk;@RaG_Evil_Snowman;@Namalsk_Igloo;@CF;@GRW ER7 Gauss Rifle;@RedFalcon Buildings;@Namalsk Clothing Expansion;@BaseBuildingPlus;@dbo_creatures;@EDO_WEAPONS;@AmmunitionExpansion;@Gas-Pump-Refueling;@GoreZ;@Unlimited Stamina;@The Last of Us Mutant's;@Perishable Food (Fixed);@ArrakisAmmoCurrency;@CJ187-Fridges;@CJ187-PokemonCards;@CannabisPlus;@DrugsPLUS;@MoreFood;@Mass'sManyItemOverhaul;@CodeLock to ExpansionCodeLock Bridge;@OP_BaseItems;@FlipTransport;@DHGS Hunting;@Huffy's Cocaine Bear;@TNL Dead Bodies;@Community-Online-Tools;@Dabs FrameWork;@DayZ Editor Loader;@DayZ-Expansion-Bundle;@BrainBuffetNamalsk;@zombiesampling;@DayZ-Expansion-Licensed"
 FOR /l %%s IN (45,-1,0) DO (
     cls
     echo Initializing server, wait %%s seconds to initialize BEC.. 
